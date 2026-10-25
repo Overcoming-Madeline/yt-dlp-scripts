@@ -3,6 +3,14 @@ A small collection of yt-dlp scripts that are made to make downloading videos/au
 
 ## How To Install
 
+### Auto Install
+
+``` bash
+curl https://raw.githubusercontent.com/Overcoming-Madeline/yt-dlp-scripts/refs/heads/main/install.sh | bash
+```
+
+### Manual Install
+
 **Firstly git clone the repo**
 
 ``` bash
