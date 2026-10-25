@@ -1,0 +1,2 @@
+#!/bin/sh
+yt-dlp --remux-video mp4 "$1"
